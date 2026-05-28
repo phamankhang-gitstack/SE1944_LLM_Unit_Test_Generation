@@ -1,2 +1,2 @@
 id,title,authors,year,venue,database,search_string,doi,url,abstract,notes
-AX001,Enhancing LLM-Based Test Generation by Eliminating Covered Code,,2026,arXiv,arXiv,"Enhancing LLM-Based Test Generation by Eliminating Covered Code",10.48550/arXiv.2602.21997,https://arxiv.org/abs/2602.21997,https://arxiv.org/pdf/2602.21997.pdf
+AX001,Enhancing LLM-Based Test Generation by Eliminating Covered Code,WeiZhe Xu - Mengyu Liu - Fanxin Kong,2026,arXiv,arXiv,"Enhancing LLM-Based Test Generation by Eliminating Covered Code",10.48550/arXiv.2602.21997,https://arxiv.org/abs/2602.21997,https://arxiv.org/pdf/2602.21997.pdf
