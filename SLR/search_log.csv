@@ -2,6 +2,6 @@ database,search_string,date,number_of_results,member,notes
 Google Scholar,String A,2026-05-26,,Person 1,
 IEEE Xplore,String A,2026-05-26,,Person 2,
 ACM Digital Library,String A,2026-05-26,,Person 3,
-Semantic Scholar,String A,2026-05-26,,Person 4,
+Semantic Scholar,String A,2026-05-28,,Person 4,Automatically has the "Has PDF" filter on and sorted by relevance once search button is hit
 arXiv,LLM unit test generation,2026-05-27,1102 ,Person 5,
 CORE,LLM unit test generation,2026-05-27,20859,Person 5,
